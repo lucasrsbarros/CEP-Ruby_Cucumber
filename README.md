@@ -1,4 +1,5 @@
 Orientações
+
 Regras:
 Implementar os testes com Cucumber + Ruby
 Enviar o teste em um repositório público do Github ou similar
